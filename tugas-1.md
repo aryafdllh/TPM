@@ -48,28 +48,3 @@ buletin, misalnya, mungkin menyertakan suara dan gambar bergerak
 — baik langsung maupun rekaman — gambar diam, seperti foto
 politisi, ilustrasi grafis, seperti histogram yang menunjukkan
 tren pengangguran, dan teks, dalam bentuk subtitle, keterangan, kutipan, dan kredit, yang biasanya akan disertai_
-
-
-
-
-
-
-
-fdsgjfhdusalflhdsagifydhaugfd
-fdsafdsa
-fdafd
-fad
-saf
-dsa
-fda
-fd
-saf
-dg
-fdsg
-f
-sdg
-fsd
-hfdsg
-fs
-gf
-sdg
