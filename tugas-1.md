@@ -51,27 +51,3 @@ tren pengangguran, dan teks, dalam bentuk subtitle, keterangan, kutipan, dan kre
 
 ### Introduction
 > ### _Pengantar_
-
-
-### Introduction
-> ### _Pengantar_
-
-
-### Introduction
-> ### _Pengantar_
-
-
-### Introduction
-> ### _Pengantar_
-The combination of different media is not something new. On
-the contrary, established forms mix media routinely. A TV news
-bulletin, for example, might include sound and moving pictures
-— both live and recorded — still images, such as photographs of
-politicians, graphic illustrations, such as a histogram showing the
-trend in unemployment, and text, in the form of subtitles, captions, quotations, and credits, which will usually be accompanied
-> _Kombinasi media yang berbeda bukanlah sesuatu yang baru. Pada
-sebaliknya, bentuk-bentuk yang mapan mencampur media secara rutin. Sebuah berita TV
-buletin, misalnya, mungkin menyertakan suara dan gambar bergerak
-— baik langsung maupun rekaman — gambar diam, seperti foto
-politisi, ilustrasi grafis, seperti histogram yang menunjukkan
-tren pengangguran, dan teks, dalam bentuk subtitle, keterangan, kutipan, dan kredit, yang biasanya akan disertai_
